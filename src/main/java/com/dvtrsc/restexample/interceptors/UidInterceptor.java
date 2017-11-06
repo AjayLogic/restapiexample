@@ -26,7 +26,7 @@ public class UidInterceptor extends  HandlerInterceptorAdapter {
 			long uid = rnd.nextLong();			
 			uid = uid < 0 ? -uid : uid;
 			
-			logger.info("[" + uid + "] Request received from " + request.getLocalAddr());
+			logger.info("[" + uid + "] Request received from " + request.getLocalAddr() + " (proxied from " + request.getHeader("X-Real-IP") + ")");
 			request.setAttribute("uid", uid);	
 			
 			return true;

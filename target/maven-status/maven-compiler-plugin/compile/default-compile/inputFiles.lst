@@ -1,0 +1,10 @@
+/home/nnn/_src/restapi/src/main/java/com/dvtrsc/restexample/ecosystem/SwaggerConfig.java
+/home/nnn/_src/restapi/src/main/java/com/dvtrsc/restexample/interceptors/UidInterceptor.java
+/home/nnn/_src/restapi/src/main/java/com/dvtrsc/restexample/entities/Constants.java
+/home/nnn/_src/restapi/src/main/java/com/dvtrsc/restexample/controllers/ping/PingController.java
+/home/nnn/_src/restapi/src/main/java/com/dvtrsc/restexample/FH.java
+/home/nnn/_src/restapi/src/main/java/com/dvtrsc/restexample/config/InterceptorConfig.java
+/home/nnn/_src/restapi/src/main/java/com/dvtrsc/restexample/entities/Ping.java
+/home/nnn/_src/restapi/src/main/java/com/dvtrsc/restexample/entities/BaseEntity.java
+/home/nnn/_src/restapi/src/main/java/com/dvtrsc/restexample/interceptors/ValidationInterceptor.java
+/home/nnn/_src/restapi/src/main/java/com/dvtrsc/restexample/Application.java
